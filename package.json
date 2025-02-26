@@ -1,0 +1,16 @@
+{
+  "name": "the_acme_hr_directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "node": "^18.20.7",
+    "pg": "^8.13.3"
+  }
+}
